@@ -19,3 +19,4 @@ CREATE TABLE properties (
 
   active BOOLEAN NOT NULL DEFAULT TRUE
 );
+
